@@ -1,0 +1,13 @@
+Tower of Hanoi out put
+
+input is:
+Enter the number of disks: 3
+
+The output will be:
+Disk 1 from A to B
+Disk 2 from A to C
+Disk 1 from B to C
+Disk 3 from A to B
+Disk 1 from C to A
+Disk 2 from C to B
+Disk 1 from A to B

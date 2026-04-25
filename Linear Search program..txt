@@ -1,0 +1,5 @@
+Enter number of elements: 5
+Enter 5 elements:
+10 20 30 40 50
+Enter element to search: 30
+Element found at index 2
